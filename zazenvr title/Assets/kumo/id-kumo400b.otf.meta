@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 58743272986c0460c847ac4da9aa7fbd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: id-kaiun
+  fontNames:
+  - id-kaiun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 536b3c48cd33e44558d7929fc58b6898, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
